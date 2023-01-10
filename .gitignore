@@ -367,3 +367,4 @@ $RECYCLE.BIN/
 dist
 .parcel-cache
 !tailwind.config.js
+!src/index.html
